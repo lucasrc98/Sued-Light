@@ -1,4 +1,4 @@
-alert('Bem vindo mortal, me faça uma pergunta');    
+alert('Bem vindo, mortal. Me faça uma pergunta');    
 
 //Array com as perguntas padrões 
 const perguntas = [
